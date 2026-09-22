@@ -216,6 +216,8 @@ Production Server
 
 The following screenshot shows the successful GitHub Actions job executed using the required self-hosted runner:
 
+![Successful GitHub Actions runner job](src/assets/runner.png)
+
 ```text
 ostad-runner
 ```
